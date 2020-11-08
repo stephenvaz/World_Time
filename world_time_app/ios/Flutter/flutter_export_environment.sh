@@ -5,7 +5,7 @@ export "FLUTTER_ROOT=C:\src\flutter"
 export "FLUTTER_APPLICATION_PATH=D:\Github codes\World_Time\world_time_app"
 =======
 export "FLUTTER_ROOT=D:\src\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\TEMP.DESKTOP-FEK3EAD.000\Documents\GitHub\World_Time\world_time_app"
+export "FLUTTER_APPLICATION_PATH=D:\Users\Stephen\Dev\Git\World_Time\world_time_app"
 >>>>>>> Stashed changes
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
