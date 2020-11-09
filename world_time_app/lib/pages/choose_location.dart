@@ -108,7 +108,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
     WorldTime(
         url: 'America/Argentina/Rio_Gallegos',
         location: 'Rio_Galleos',
-        flag: 'rio_gallegos.png'),
+        flag: 'rio_galleos.png'),
     WorldTime(url: 'America/Argentina/Salta', location: 'Salta', flag: 'salta.png'),
     WorldTime(
         url: 'America/Argentina/San_Juan', location: 'San_Juan', flag: 'san_juan.png'),
@@ -151,11 +151,11 @@ class _ChooseLocationState extends State<ChooseLocation> {
     WorldTime(url: 'America/Fortaleza', location: 'Fortaleza', flag: 'fortaleza.png'),
     WorldTime(url: 'America/Glace_Bay', location: 'Glace_Bay', flag: 'glace_bay.png'),
     WorldTime(url: 'America/Goose_Bay', location: 'Goose_Bay', flag: 'goose_bay.png'),
-    WorldTime(url: 'America/Grand_Turk', location: 'Grand_Turk', flag: 'gran_turk.png'),
+    WorldTime(url: 'America/Grand_Turk', location: 'Grand_Turk', flag: 'grand_turk.png'),
     WorldTime(url: 'America/Guatemala', location: 'Guatemala', flag: 'guatemala.png'),
     WorldTime(url: 'America/Guayaquil', location: 'Guayaquil', flag: 'guayaquil.png'),
     WorldTime(url: 'America/Guyana', location: 'Guyana', flag: 'guyana.png'),
-    WorldTime(url: 'America/Halifax', location: 'Halifax', flag: 'halifex.png'),
+    WorldTime(url: 'America/Halifax', location: 'Halifax', flag: 'halifax.png'),
     WorldTime(url: 'America/Havana', location: 'Havana', flag: 'havana.png'),
     WorldTime(url: 'America/Hermosillo', location: 'Hermosillo', flag: 'hermosillo.png'),
     WorldTime(
@@ -173,7 +173,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
         url: 'America/Indiana/Vincennes', location: 'Vincennes', flag: 'vincennes.png'),
     WorldTime(url: 'America/Indiana/Winamac', location: 'Winamac', flag: 'indiana.png'),
     WorldTime(url: 'America/Inuvik', location: 'Inuvik', flag: 'inuvik.png'),
-    WorldTime(url: 'America/Iqaluit', location: 'Iqualuit', flag: 'iqualuit.png'),
+    WorldTime(url: 'America/Iqaluit', location: 'Iqualuit', flag: 'iqaluit.png'),
     WorldTime(url: 'America/Jamaica', location: 'Jamaica', flag: 'jamaica.png'),
     WorldTime(url: 'America/Juneau', location: 'Juneau', flag: 'juneau.png'),
     WorldTime(
@@ -195,8 +195,8 @@ class _ChooseLocationState extends State<ChooseLocation> {
     WorldTime(url: 'America/Mexico_City', location: 'exico_city', flag: 'mexico_city.png'),
     WorldTime(url: 'America/Miquelon', location: 'Miquelon', flag: 'miquelon.png'),
     WorldTime(url: 'America/Moncton', location: 'moncton', flag: 'moncton.png'),
-    WorldTime(url: 'America/Monterrey', location: 'Monterry', flag: 'monterry.png'),
-    WorldTime(url: 'America/Montevideo', location: 'Montvideo', flag: 'montvideo.png'),
+    WorldTime(url: 'America/Monterrey', location: 'Monterry', flag: 'monterrey.png'),
+    WorldTime(url: 'America/Montevideo', location: 'Montvideo', flag: 'montevideo.png'),
     WorldTime(url: 'America/Nassau', location: 'Nassau', flag: 'nassau.png'),
     WorldTime(url: 'America/New_York', location: 'New_York', flag: 'new_york.png'),
     WorldTime(url: 'America/Nipigon', location: 'Nipigon', flag: 'nipigon.png'),

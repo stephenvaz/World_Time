@@ -82,13 +82,7 @@ class _HomeState extends State<Home> {
           ),
         ),
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: () {
-          print("I'm Noob");
-        },
-        child: Text("Tap"),
-        backgroundColor: Colors.black,
-      ),
+      
     );
   }
 }
