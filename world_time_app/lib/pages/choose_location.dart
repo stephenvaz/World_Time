@@ -387,7 +387,6 @@ class _ChooseLocationState extends State<ChooseLocation> {
     WorldTime(url: 'Pacific/Tongatapu', location: 'Tongatapu', flag: 'togatapu.png'),
     WorldTime(url: 'Pacific/Wake', location: 'Wake', flag: 'wake.png'),
     WorldTime(url: 'Pacific/Wallis', location: 'Wallis', flag: 'wallis.png'),
-    WorldTime(url: 'WET', location: 'Wet', flag: 'wet.png'),//fnf loop
   
   ];
 
