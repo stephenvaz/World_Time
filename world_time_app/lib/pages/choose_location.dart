@@ -16,7 +16,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
     WorldTime(url: 'America/New_York', location: 'New York', flag: 'usa.png'),
     WorldTime(url: 'Asia/Seoul', location: 'Seoul', flag: 'south_korea.png'),
     WorldTime(url: 'Asia/Jakarta', location: 'Jakarta', flag: 'indonesia.png'),
-    WorldTime(url: 'Asia/Kolkata', location: 'India', flag: 'India.png'),
+    WorldTime(url: 'Asia/Kolkata', location: 'India', flag: 'india.png'),
     WorldTime(
         url: 'America/Los_Angeles', location: 'Los Angeles', flag: 'usa.png'),
     WorldTime(
@@ -35,11 +35,11 @@ class _ChooseLocationState extends State<ChooseLocation> {
     WorldTime(url: 'Africa/Khartoum', location: 'Khartoum', flag: 'khartoum.png'),
     WorldTime(url: 'Africa/Lagos', location: 'Lagos', flag: 'lagos.png'),
     WorldTime(url: 'Africa/Maputo', location: 'Maputo', flag: 'maputo.png'),
-    WorldTime(url: 'Africa/Monrovia', location: 'Monrovia', flag: 'morovia.png'),
+    WorldTime(url: 'Africa/Monrovia', location: 'Monrovia', flag: 'monrovia.png'),
     WorldTime(url: 'Africa/Nairobi', location: 'Nairobi', flag: 'nairobi.png'),
     WorldTime(url: 'Africa/Ndjamena', location: 'Ndjamena', flag: 'ndjamena.png'),
     WorldTime(url: 'Africa/Sao_Tome', location: 'Sao_Tome', flag: 'saotome.png'),
-    WorldTime(url: 'Africa/Tripoli', location: 'Tripoli', flag: 'tripolis.png'),
+    WorldTime(url: 'Africa/Tripoli', location: 'Tripoli', flag: 'tripoli.png'),
     WorldTime(url: 'Africa/Tunis', location: 'Tunis', flag: 'tunis.png'),
     WorldTime(url: 'Africa/Windhoek', location: 'Windhoek', flag: 'windhoek.png'),
     WorldTime(url: 'America/Adak', location: 'Adak', flag: 'adak.png'),
