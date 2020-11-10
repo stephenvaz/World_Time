@@ -210,7 +210,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
     WorldTime(url: 'America/Whitehorse', location: 'Whitehorse', flag: 'whitehorse.png'),
     WorldTime(url: 'America/Winnipeg', location: 'Winnipeg', flag: 'winnipeg.png'),
     WorldTime(url: 'America/Yakutat', location: 'Yakutat', flag: 'yakutat.png'),
-    WorldTime(url: 'America/Yellowknife', location: 'YellowKnife', flag: 'yellowknife.png'),
+    WorldTime(url: 'America/Yellowknife', location: 'Yellow Knife', flag: 'yellowknife.png'),
     WorldTime(url: 'Antarctica/Casey', location: 'Casey', flag: 'antarctica.png'),
     WorldTime(url: 'Antarctica/Davis', location: 'Davis', flag: 'antarctica.png'),
     WorldTime(url: 'Antarctica/DumontDUrville', location: 'DumotDUrville', flag: 'antarctica.png'),
