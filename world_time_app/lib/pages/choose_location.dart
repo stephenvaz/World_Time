@@ -8,7 +8,7 @@ class ChooseLocation extends StatefulWidget {
 
 class _ChooseLocationState extends State<ChooseLocation> {
   List<WorldTime> locations = [
-        WorldTime(url: 'Europe/London', location: 'London', flag: 'london.png'),
+    WorldTime(url: 'Europe/London', location: 'London', flag: 'london.png'),
     WorldTime(url: 'Europe/Berlin', location: 'Berlin', flag: 'berlin.png'),
     WorldTime(url: 'Europe/Amsterdam', location: 'Amsterdam', flag: 'amsterdam.png'),
     WorldTime(url: 'Europe/Andorra', location: 'Andorra', flag: 'andorra.png'),
@@ -27,17 +27,17 @@ class _ChooseLocationState extends State<ChooseLocation> {
     WorldTime(url: 'Europe/Kaliningrad', location: 'Kaliningrad', flag: 'kaliningrad.png'),
     WorldTime(url: 'Europe/Kiev', location: 'Kiev', flag: 'kiev.png'),
     WorldTime(url: 'Europe/Kirov', location: 'Kirov', flag: 'kirov.png'),
-    WorldTime(url: 'Europe/Lisbon', location: 'Lisbon', flag: ''), //flag not found(fnf)
+    WorldTime(url: 'Europe/Lisbon', location: 'Lisbon', flag: 'gmt-9'), //flag not found(fnf)
     WorldTime(url: 'Europe/Luxembourg', location: 'Luxembourg', flag: 'luxemborg.png'),
     WorldTime(url: 'Europe/Madrid', location: 'Madrid', flag: 'madrid.png'),
     WorldTime(url: 'Europe/Malta', location: 'Malta', flag: 'malta.png'),
     WorldTime(url: 'Europe/Minsk', location: 'Minsk', flag: 'minsk.png'),
     WorldTime(url: 'Europe/Monaco', location: 'Monaco', flag: 'monaco.png'),
     WorldTime(url: 'Europe/Moscow', location: 'Moscow', flag: 'moscow.png'),
-    WorldTime(url: 'Europe/Oslo', location: 'Olso', flag: ''),//fnf
+    WorldTime(url: 'Europe/Oslo', location: 'Olso', flag: 'gmt-9'),//fnf
     WorldTime(url: 'Europe/Paris', location: 'Paris', flag: 'paris.png'),
     WorldTime(url: 'Europe/Prague', location: 'Praugue', flag: 'prague.png'),
-    WorldTime(url: 'Europe/Riga', location: 'Riga', flag: ''),//fnf
+    WorldTime(url: 'Europe/Riga', location: 'Riga', flag: 'gmt-9'),//fnf
     WorldTime(url: 'Europe/Rome', location: 'Rome', flag: 'rome.png'),
     WorldTime(url: 'Europe/Samara', location: 'Samara', flag: 'samara.png'),
     WorldTime(url: 'Europe/Saratov', location: 'Saratov', flag: 'saratov.png'),
