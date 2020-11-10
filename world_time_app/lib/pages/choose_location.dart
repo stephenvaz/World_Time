@@ -54,8 +54,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
     WorldTime(url: 'Europe/Warsaw', location: 'Warsaw', flag: 'warsaw.png'),
     WorldTime(url: 'Europe/Zaporozhye', location: 'Zaporozhye', flag: ''),//fnf
     WorldTime(url: 'Europe/Zurich', location: 'Zurich', flag: 'zurich.png'),
-    WorldTime(url: 'Europe/London', location: 'London', flag: 'uk.png'),
-    WorldTime(url: 'Europe/Berlin', location: 'Athens', flag: 'greece.png'),
+    
     WorldTime(url: 'Africa/Cairo', location: 'Cairo', flag: 'egypt.png'),
     WorldTime(url: 'Africa/Nairobi', location: 'Nairobi', flag: 'kenya.png'),
     WorldTime(url: 'America/Chicago', location: 'Chicago', flag: 'usa.png'),
