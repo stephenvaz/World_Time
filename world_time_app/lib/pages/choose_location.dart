@@ -732,8 +732,9 @@ class _ChooseLocationState extends State<ChooseLocation> {
                   Icons.search,
                   color: Colors.white,
                 ),
-                onPressed: () {
-                  Navigator.pushNamed(context, '/location');
+                onPressed: () async {
+                  dynamic result =
+                      await Navigator.pushNamed(context, '/search');
                 }),
           ]),
       body: ListView.builder(
