@@ -733,7 +733,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
                   color: Colors.white,
                 ),
                 onPressed: () {
-                  // do something
+                  Navigator.pushNamed(context, '/location');
                 }),
           ]),
       body: ListView.builder(
